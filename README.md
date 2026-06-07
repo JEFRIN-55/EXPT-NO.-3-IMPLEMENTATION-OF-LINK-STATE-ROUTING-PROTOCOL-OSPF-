@@ -4,11 +4,13 @@
 To connect computers in multiple networks using Open Shortest Path First Routing Protocol and to verify the connectivity between computers.
 
 # EQUIPMENTS REQUIRED
+<img width="1600" height="935" alt="image" src="https://github.com/user-attachments/assets/bb25cc2c-414b-4a41-a9db-dd40de3acc44" />
 
 # IP ASSIGNMENT
+<img width="959" height="434" alt="image" src="https://github.com/user-attachments/assets/c2a40ed7-3e1a-4f62-b6e1-b451f2d2811f" />
 
 # NETWORK DIAGRAM
-
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b9a11aaf-8839-4ce8-8bf8-63804b17ac01" />
 
 # PROCEDURE
 STEP 1: Open a Packet Tracer Software.
@@ -22,7 +24,8 @@ STEP 10: Verify the connectivity between PC Terminals in different networks usin
 STEP 11: Check the routing table in Delhi router and Chennai router using show ip route command
 
 # OUTPUT
-
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/4a36068d-cfd6-4255-a76c-3d20081e140d" />
+<img width="1340" height="1600" alt="image" src="https://github.com/user-attachments/assets/a15ca4cb-269a-4d78-892d-6a6d7fc9b23e" />
 
 
 # RESULT
